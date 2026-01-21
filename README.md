@@ -1,6 +1,9 @@
 # Cloud Storage Service (FastAPI + React)
 
-A cloud-based file storage system built using FastAPI for backend and React for frontend.
+# Cloud Storage Service
+
+A full-stack cloud storage application built using FastAPI (backend) and React (frontend).  
+It supports file upload, folders, trash, starred files, sharing, rename, move, and preview.
 
 ## Features
 
